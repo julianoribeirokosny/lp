@@ -3,6 +3,7 @@ import themeConfig from './theme.json';
 // Tipos para imagens
 export interface ThemeImages {
   logo: string;
+  logoWhite: string;
   heroMockup: string;
   appMockupLarge: string;
   appMockupSmall: string;
@@ -13,6 +14,7 @@ export interface ThemeImages {
 
 export interface ThemeImageAlts {
   logo: string;
+  logoWhite: string;
   heroMockup: string;
   appMockupLarge: string;
   appMockupSmall: string;

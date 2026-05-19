@@ -59,7 +59,7 @@ export function PlanCard({
 
       {/* CTA Button */}
       <a
-        href={"https://adesao-smartprev-stage.web.app/OABPrev-PR/2020096011"}
+        href={ctaHref}
         target="_blank"
         rel="noopener noreferrer"
         className="block w-full py-3 px-6 rounded-2xl text-lg font-medium transition-opacity hover:opacity-90 cursor-pointer"

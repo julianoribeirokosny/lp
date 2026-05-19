@@ -17,8 +17,8 @@ export function Logo({ size = 'md', className = '' }: LogoProps) {
   return (
     <div className={`${sizeClasses[size]} ${className}`}>
       <img
-        src={images.logo}
-        alt={imageAlts.logo}
+        src={images.logoWhite}
+        alt={imageAlts.logoWhite}
         className="h-full w-full object-contain"
       />
     </div>

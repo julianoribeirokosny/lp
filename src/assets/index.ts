@@ -1,5 +1,6 @@
 // Logo
 import logo from './862b686b7022387c2b66db359d7e8af55f1ee2c6.png';
+import logoWhite from './oab-vetor.png';
 
 // Hero e App Section
 import heroMockup from './7a3dc56e4c9bd356e647e2ed890252de8608f02e1.png';
@@ -17,6 +18,7 @@ import contact from './a0da09feec648c1e7ff31a1c8f8757a208b8e94f.png';
  */
 export const themeImages = {
   logo,
+  logoWhite,
   heroMockup,
   appMockupLarge,
   appMockupSmall,

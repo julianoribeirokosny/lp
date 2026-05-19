@@ -6,6 +6,7 @@
   },
   "images": {
     "logo": "/src/assets/862b686b7022387c2b66db359d7e8af55f1ee2c6.png",
+    "logoWhite": "/src/assets/oab-vetor.png",
     "heroMockup": "/src/assets/7a3dc56e4c9bd356e647e2ed890252de8608f02e1.png",
     "appMockupLarge": "/src/assets/fa54e66dc0b2ae97c0f0484e7ec991487f1cd570.png",
     "appMockupSmall": "/src/assets/7758aee6cafaf8c13402dc6e0615c2e9cde8d637.png",
@@ -15,6 +16,7 @@
   },
   "imageAlts": {
     "logo": "OABPrev Logo",
+    "logoWhite": "OABPrev Logo",
     "heroMockup": "Pessoa usando o aplicativo OABPrev",
     "appMockupLarge": "Interface do aplicativo OABPrev mostrando simulação de aposentadoria",
     "appMockupSmall": "Interface do aplicativo OABPrev mostrando gestão de investimentos",

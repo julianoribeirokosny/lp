@@ -1,0 +1,347 @@
+{
+  "brand": {
+    "name": "OABPrev-PR",
+    "description": "Plano de Previdência para Advogados",
+    "copyright": "© {year} OABPrev-PR. Todos os direitos reservados."
+  },
+  "images": {
+    "logo": "/src/assets/862b686b7022387c2b66db359d7e8af55f1ee2c6.png",
+    "heroMockup": "/src/assets/7a3dc56e4c9bd356e647e2ed890252de8608f02e1.png",
+    "appMockupLarge": "/src/assets/fa54e66dc0b2ae97c0f0484e7ec991487f1cd570.png",
+    "appMockupSmall": "/src/assets/7758aee6cafaf8c13402dc6e0615c2e9cde8d637.png",
+    "differential": "/src/assets/54e1b043acbadeebe4fb52a439d235639a82c559.png",
+    "planning": "/src/assets/c77fab5598ce9ce0b5ee2a121520fcc7b0b81bb9.png",
+    "contact": "/src/assets/a0da09feec648c1e7ff31a1c8f8757a208b8e94f.png"
+  },
+  "imageAlts": {
+    "logo": "OABPrev Logo",
+    "heroMockup": "Pessoa usando o aplicativo OABPrev",
+    "appMockupLarge": "Interface do aplicativo OABPrev mostrando simulação de aposentadoria",
+    "appMockupSmall": "Interface do aplicativo OABPrev mostrando gestão de investimentos",
+    "differential": "Profissional sorrindo",
+    "planning": "Planejamento financeiro",
+    "contact": "Atendimento personalizado"
+  },
+  "colors": {
+    "primary": {
+      "main": "#1b7cb5",
+      "dark": "#121327",
+      "light": "#0c7bc6",
+      "accent": "#5532a1"
+    },
+    "text": {
+      "dark": "#131e35",
+      "light": "#f2eaff",
+      "muted": "#717182",
+      "body": "#212121",
+      "gray": "#111010"
+    },
+    "background": {
+      "main": "#ffffff",
+      "alt": "#f0f0f4",
+      "purple": "#f2eaff",
+      "dark": "#121327"
+    },
+    "button": {
+      "appStore": "#27202c",
+      "appStoreBorder": "#884eaa"
+    },
+    "highlight": {
+      "blue": "#0c8bfd",
+      "purple": "#884eaa"
+    }
+  },
+  "gradients": {
+    "primary": "linear-gradient(to right, #121327, #1b7cb5)",
+    "primaryReverse": "linear-gradient(to right, #1b7cb5, #121327)",
+    "hero": "linear-gradient(to right, #1b7cb5, #5532a1)",
+    "card": "linear-gradient(to right, rgba(27,124,181,0.5), rgba(18,19,39,0.5))"
+  },
+  "spacing": {
+    "container": "80rem",
+    "section": {
+      "paddingY": "6rem",
+      "paddingYMobile": "4rem"
+    }
+  },
+  "borderRadius": {
+    "sm": "0.5rem",
+    "md": "0.625rem",
+    "lg": "0.75rem",
+    "xl": "1rem",
+    "2xl": "1.5rem",
+    "3xl": "2rem",
+    "full": "9999px"
+  },
+  "shadows": {
+    "sm": "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
+    "md": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+    "lg": "0 10px 15px -3px rgba(0, 0, 0, 0.1)",
+    "xl": "0 20px 25px -5px rgba(0, 0, 0, 0.1)",
+    "2xl": "0 25px 50px -12px rgba(0, 0, 0, 0.25)",
+    "appStore": "inset 0px 0px 18px 0px rgba(136,78,170,0.5)"
+  },
+  "typography": {
+    "fontFamily": "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif",
+    "sizes": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem",
+      "5xl": "3rem",
+      "6xl": "3.75rem"
+    }
+  },
+  "contact": {
+    "whatsapp": {
+      "number": "5541999999999",
+      "messages": {
+        "simulacao": "Olá! Gostaria de fazer uma simulação do plano OABPrev-PR.",
+        "consultor": "Olá! Gostaria de falar com um consultor sobre o plano OABPrev-PR.",
+        "especialista": "Olá! Gostaria de falar com um especialista sobre o plano OABPrev-PR."
+      }
+    },
+    "email": "atendimento.coml@oabprev-pr.org.br",
+    "emailSubject": "Contato via Site OABPrev-PR",
+    "emailBody": "Olá, gostaria de mais informações sobre o plano OABPrev-PR.",
+    "phone": "(41) 3513-2829",
+    "address": {
+      "street": "Rua Cândido Lopes, 146 - 5° andar - Centro",
+      "cep": "80.020-060",
+      "city": "Curitiba",
+      "state": "PR"
+    }
+  },
+  "apps": {
+    "googlePlay": "https://play.google.com/store/apps/details?id=com.oabprev.app",
+    "appStore": "https://apps.apple.com/br/app/oabprev-pr/id123456789"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/oabprev-pr",
+    "instagram": "https://www.instagram.com/oabprevpr",
+    "youtube": "https://www.youtube.com/@oabprevpr",
+    "facebook": "https://www.facebook.com/oabprevpr"
+  },
+  "texts": {
+    "header": {
+      "portalButton": {
+        "url": "https://relacionamento-smartprev-stage.web.app/login",
+        "light": "Portal",
+        "bold": "Corretor"
+      }
+    },
+    "hero": {
+      "title": {
+        "regular": "Seu futuro financeiro",
+        "highlight": "começa hoje!"
+      },
+      "description": "Construa um <bold>Projeto de Vida</bold> sólido com os benefícios exclusivos do <bold>Plano OABPrev-PR</bold>. Com uma maior rentabilidade, menor taxa do mercado e maior segurança para o seu investimento.",
+      "ctaSimulation": {
+        "regular": "Faça aqui uma",
+        "bold": "simulação",
+        "url": "https://adesao-smartprev-stage.web.app/OABPrev-PR/2020096011"
+      },
+      "ctaConsultant": {
+        "regular": "Fale com um",
+        "bold": "Consultor"
+      }
+    },
+    "whyChoose": {
+      "title": {
+        "light": "Por que escolher a",
+        "highlight": "Previdência Fechada?"
+      },
+      "cta": {
+        "regular": "Fazer",
+        "bold": "minha simulação agora",
+        "url": "https://adesao-smartprev-stage.web.app/OABPrev-PR/2020096011"
+      }
+    },
+    "appSection": {
+      "title": "Já tem o plano?",
+      "description": "Baixe agora o <bold>App OABPrev-PR</bold> nas lojas e gerencie seu Projeto de vida!",
+      "subdescription": "Você pode simular sua renda futura, ver extratos, fazer aportes e muito mais.",
+      "storeLabels": {
+        "availableOn": "Disponível na",
+        "googlePlay": "Google Play",
+        "appStore": "App Store"
+      }
+    },
+    "differential": {
+      "title": {
+        "light": "O nosso",
+        "highlight": "diferencial"
+      }
+    },
+    "planning": {
+      "title": {
+        "light": "Um planejamento",
+        "highlight": "completo"
+      }
+    },
+    "howItWorks": {
+      "title": {
+        "light": "Como funciona a",
+        "highlight": "Previdência Fechada?"
+      }
+    },
+    "pricing": {
+      "intro": "Com <bold>menos</bold> do que imagina, você <bold>investe</bold> hoje, <bold>constrói</bold> seu <bold>patrimônio</bold> para o amanhã e ainda mantém <bold>proteção</bold> para você e sua família para <bold>sempre!</bold>",
+      "cardLabels": {
+        "contributionPrefix": "Com uma contribuição de",
+        "patrimonyPrefix": "seu patrimônio pode chegar a",
+        "insurancePrefix": "e você ainda pode ter uma cobertura em caso de morte ou invalidez com o Seguro de Renda de"
+      },
+      "ctaButton": "Faça uma simulação",
+      "disclaimer": "Cálculo realizado considerando a idade de aposentadoria aos <bold>65 anos.</bold><br/>Os valores acima são apenas estimativas e não garantem nenhum direito antecipado."
+    },
+    "contact": {
+      "title": {
+        "regular": "Atendimento com pessoas reais que",
+        "highlight": "valorizam o seu tempo"
+      },
+      "description": "Fale com quem está disposto a fazer você lucrar mais o quanto antes.",
+      "cta": {
+        "regular": "Converse com",
+        "bold": "um especialista"
+      }
+    },
+    "faq": {
+      "title": {
+        "light": "Perguntas",
+        "highlight": "Frequentes"
+      }
+    },
+    "footer": {
+      "labels": {
+        "address": "Endereço:",
+        "cep": "CEP:",
+        "phone": "Telefone:",
+        "email": "E-mail:"
+      }
+    }
+  },
+  "content": {
+    "whyChooseFeatures": [
+      {
+        "icon": "Shield",
+        "title": "MÁXIMA SEGURANÇA",
+        "description": "Regulamentada pela PREVIC com governança transparente e auditoria independente."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "MAIOR RENTABILIDADE",
+        "description": "Estrutura sem fins lucrativos permite maior retorno dos investimentos aos participantes."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "MENORES TAXAS",
+        "description": "Sem visão comercial, praticamos as menores taxas de administração do mercado."
+      }
+    ],
+    "plans": [
+      {
+        "contribution": "R$ 150,00",
+        "patrimony": "R$ 250.000,00",
+        "insurance": "R$ 85.000,00",
+        "highlighted": false
+      },
+      {
+        "contribution": "R$ 300,00",
+        "patrimony": "R$ 550.000,00",
+        "insurance": "R$ 150.000,00",
+        "highlighted": true
+      },
+      {
+        "contribution": "R$ 600,00",
+        "patrimony": "R$ 950.000,00",
+        "insurance": "R$ 300.000,00",
+        "highlighted": false
+      }
+    ],
+    "differentials": [
+      { "title": "Aqui a previdência é segura", "description": "O dinheiro é seu do início ao fim." },
+      { "title": "O lucro é seu!", "description": "Somos sem fins lucrativos." },
+      { "title": "Soluções em um único lugar", "description": "Aplicativo para acompanhar seu Plano." },
+      { "title": "Zero taxa de carregamento", "description": "E as menores taxas de administração." },
+      { "title": "Incentivos fiscais", "description": "Dedução de até 12% no seu IR." },
+      { "title": "E muito mais!", "description": "" }
+    ],
+    "planning": [
+      { "title": "Planejamento na Longevidade", "description": "Você merece viver melhor na sua aposentadoria." },
+      { "title": "Planejamento Tributário", "description": "Pague menos IR e tenha incentivo fiscal com seus investimentos." },
+      { "title": "Planejamento Financeiro", "description": "Plano com as menores taxas e com maiores rentabilidades." },
+      { "title": "Planejamento Sucessório", "description": "Escolha quaisquer beneficiários e planeje sua sucessão patrimonial." },
+      { "title": "Planejamento de Imprevistos", "description": "Proteja quem você ama com o Seguro de Renda em caso de morte ou invalidez." },
+      { "title": "E muito mais!", "description": "" }
+    ],
+    "steps": [
+      {
+        "number": "1",
+        "icon": "Users",
+        "title": "CADASTRO E ADESÃO",
+        "description": "Cadastre-se em nossa plataforma e escolha o plano que melhor se adapta ao seu perfil e objetivos de aposentadoria.",
+        "badge": "Processo 100% digital"
+      },
+      {
+        "number": "2",
+        "icon": "Wallet",
+        "title": "CONTRIBUIÇÕES MENSAIS",
+        "description": "Defina o valor das suas contribuições mensais. Você pode ajustar a qualquer momento conforme sua capacidade financeira.",
+        "badge": "Flexibilidade Total"
+      },
+      {
+        "number": "3",
+        "icon": "LineChart",
+        "title": "INVESTIMENTOS PROFISSIONAIS",
+        "description": "Seus recursos são investidos por gestores especializados em uma carteira diversificada de baixo risco e alta rentabilidade.",
+        "badge": "Gestão Profissional"
+      },
+      {
+        "number": "4",
+        "icon": "CreditCard",
+        "title": "RECEBIMENTO DOS BENEFÍCIOS",
+        "description": "Ao atingir a idade de aposentadoria, receba sua renda mensal ou retire o montante acumulado.",
+        "badge": "Segurança Garantida"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "O que é previdência fechada e como ela difere da previdência aberta?",
+        "answer": "A previdência fechada (também chamada de fundo de pensão) é uma entidade sem fins lucrativos, regulamentada pela PREVIC, destinada a grupos específicos. Diferente da previdência aberta (oferecida por bancos e seguradoras com fins lucrativos), a OABPrev oferece menores taxas de administração, maior rentabilidade e toda governança transparente. O lucro gerado volta para você!"
+      },
+      {
+        "question": "Quais são as vantagens fiscais do plano OABPrev-PR?",
+        "answer": "Você pode deduzir até 12% da sua renda bruta anual no Imposto de Renda com as contribuições para o plano de previdência. Isso significa pagar menos IR agora enquanto constrói seu patrimônio para o futuro. Além disso, há benefícios no planejamento sucessório, pois o valor não entra em inventário."
+      },
+      {
+        "question": "Posso resgatar meu dinheiro a qualquer momento?",
+        "answer": "O plano de previdência é pensado para o longo prazo, mas oferece flexibilidade. Você pode ajustar o valor das contribuições mensais conforme sua capacidade financeira. Para resgates, existem regras específicas que dependem do tipo de plano contratado. Consulte um de nossos especialistas para entender as condições específicas do seu plano."
+      },
+      {
+        "question": "Como funcionam os Seguros de Renda por Morte e Invalidez?",
+        "answer": "São produtos de proteção que você pode contratar junto com a previdência ou separadamente. Em caso de falecimento, o Seguro de Renda por Morte garante uma renda mensal para seus beneficiários. Já o Seguro de Renda por Invalidez protege você e sua família caso fique incapacitado de trabalhar. Os valores das coberturas variam conforme sua contribuição mensal."
+      },
+      {
+        "question": "Qual é o valor mínimo de contribuição?",
+        "answer": "Com apenas R$ 150,00 mensais você já pode começar a construir seu patrimônio e ter acesso aos benefícios da OABPrev. Você pode ajustar esse valor a qualquer momento conforme sua capacidade financeira, aumentando ou diminuindo suas contribuições."
+      },
+      {
+        "question": "Como é feita a gestão dos investimentos?",
+        "answer": "Seus recursos são geridos por profissionais especializados em uma carteira diversificada de investimentos de baixo risco e alta rentabilidade. A gestão segue rigorosas normas da PREVIC, com total transparência e auditoria independente. Você pode acompanhar a rentabilidade e extratos pelo aplicativo OABPrev-PR."
+      },
+      {
+        "question": "Posso alterar o valor da minha contribuição mensal?",
+        "answer": "Sim! Uma das grandes vantagens da OABPrev é a flexibilidade total. Você pode aumentar ou diminuir o valor das suas contribuições mensais conforme mudanças na sua capacidade financeira, sempre respeitando o valor mínimo estabelecido no regulamento do plano."
+      },
+      {
+        "question": "O que acontece com meu dinheiro em caso de falecimento antes da aposentadoria?",
+        "answer": "Você pode escolher livremente seus beneficiários no momento da adesão ao plano. Em caso de falecimento, o valor acumulado será destinado aos beneficiários indicados, sem passar por inventário. Se você contratou o Seguro de Renda por Morte, seus beneficiários ainda receberão uma renda mensal adicional pelo período contratado."
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# robots.txt para OABPrev-PR
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://oabprev-pr.org.br/sitemap.xml
+
+# Velocidade de rastreamento
+Crawl-delay: 1
+

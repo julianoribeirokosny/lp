@@ -229,7 +229,7 @@ export default function Home() {
               patrimony={plan.patrimony}
               insurance={plan.insurance}
               highlighted={plan.highlighted}
-              ctaHref={getWhatsAppLink('simulacao')}
+              ctaHref={"https://adesao-smartprev-stage.web.app/OABPrev-PR/2020096011"}
             />
             ))}
           </div>
